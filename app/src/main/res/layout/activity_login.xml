@@ -58,7 +58,7 @@
                         android:layout_height="wrap_content"
                         android:hint="Usernamel"
                         android:textColor="#ffffff"
-                        android:inputType="textEmailAddress"
+                        android:inputType="textPersonName"
                         android:maxLines="1"
                         android:singleLine="true"
                         android:layout_weight="1" />
