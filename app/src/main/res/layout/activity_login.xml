@@ -145,13 +145,12 @@
                     android:id="@+id/textView5" />
 
                 <TextView
-                    android:text="注册"
-                    android:autoLink="web|all"
+                    android:text="@string/line_register"
                     android:textSize="20dp"
                     android:textColor="#ffffff"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:id="@+id/textView6" />
+                    android:id="@+id/text_register" />
 
                 <TextView
                     android:text="一个"
@@ -164,7 +163,6 @@
 
         </LinearLayout>
     </ScrollView>
-
     <ProgressBar
         android:id="@+id/login_progress"
         style="?android:attr/progressBarStyleLarge"
